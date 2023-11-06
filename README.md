@@ -20,6 +20,6 @@ Check out my repositories below to see what I've been working on:
 
 ## Let's Connect
 
-I love to grow my network and learn from fellow developers. If you have an exciting project in mind or just want to chat about tech, reach out to me here or on [LinkedIn](#).
+I love to grow my network and learn from fellow developers. If you have an exciting project in mind or just want to chat about tech, reach out to me here or on [LinkedIn](https://www.linkedin.com/in/erik-halvorsen).
 
 Happy coding!
